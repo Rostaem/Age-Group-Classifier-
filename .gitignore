@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# IDE-specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
